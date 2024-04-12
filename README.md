@@ -17,6 +17,7 @@ In my workflow I freuqently need to export multiple objects to Unreal Engine. An
 Let's say you have bunch of objects and you want export subset of those to unreal with Blender For Unreal Engine addon. 
 
 <img src="https://github.com/bbn777/ue-helper/blob/main/docs/01-init.jpg">
+(⚠️the images are from early version and show ue-helper as separate n-panel. Now they are attached at the bottom of the BfUE addon.)
 
 Select objects that you want to export and click "Mark selected for export" from "UE Helper. If you check "Rotate Z" option, it will add additional 90 degrees rotation on the Z axsis for the export (to match unreal's forward direction if your objects face -Y in Blender).
 
